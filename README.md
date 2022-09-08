@@ -6,8 +6,8 @@ My contributions include photon transport/Monte Carlo simulations on idealized t
 In my free time, I tinker around with electronics, IoT devices and some cross-platform app development. 
 
 ## Education
-**2020 - Current** : PhD @ University of Davis, California (*ECE Department*)
-**2014 - 2018** : BSc @ Bangladesh Universty of Engineering & Technology (*EEE Department*)    
+**2020 - Current** : PhD @ University of Davis, California (*ECE Department*)  
+**2014 - 2018** : BSc @ Bangladesh Universty of Engineering & Technology (*EEE Department*)     
 
 ## Publications
 1. Taha, T. M., Raiyan, R., Akhtar, S., Awwal, R., & Alom, M. Z. (2019, September). Non-invasive detection of breast cancer using deep learning (Conference Presentation). In _Applications of Machine Learning_ (Vol. 11139, p. 1113912). SPIE.
